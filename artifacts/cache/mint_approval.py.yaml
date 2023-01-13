@@ -1,0 +1,657 @@
+filename: mint_approval.py
+timestamp: 1672813468
+compiled: BiAEAQAEwIQ9JgcIUmVzZXJ2ZXMJQXNzZXROYW1lA05JTAdBc3NldElECEJ1cm5Db250DEhvbGRpbmdzQ29udAVUZXNsYTEgMgMSMQkyAxIQMRUyAxIQMQGB6AcOECISRDEYIxJAAT0xGSISQAE0MRmBAhJAASoxGSQSQAEhMRmBBRJAARcxGSMSQAABADIEIhJEMRgjE0QxADIJEkQ2GgCABE1pbnQSQADLNhoAgAhUcmFuc2ZlchJAAH42GgCABEJ1cm4SQAA1NhoAgAtSZWdIb2xkaW5ncxJAABk2GgCAB1JlZ0J1cm4SQAABACcENhwBZyJDJwU2HAFnIkM2MAArZBJEKGQ2GgEXD0QpZCoTRCcEZDYcARJEsSSyEDYcAbIUNhoBF7ISNjAAshGzKChkNhoBFwlnIkM2MAArZBJEKGQ2GgEXD0QpZCoTRCcFZDYcARJEsSSyEDYcAbIUNhoBF7ISNjAAshGzKChkNhoBFwlnIkMpZCoSRLGBA7IQJbIiI7IjJwayJoAEVFNMQbIlsyknBmcrtDxnIkMjQyNDIkMjQykqZyglZyJD
+compiledHash: P7EJ7M6VMWHVAHXMSBSW43BMYS3WP5NLLD3LYOVZ44JKARYX3XRR7GKVOU
+srcHash: 339579088
+base64ToBytes:
+  - 6
+  - 32
+  - 4
+  - 1
+  - 0
+  - 4
+  - 192
+  - 132
+  - 61
+  - 38
+  - 7
+  - 8
+  - 82
+  - 101
+  - 115
+  - 101
+  - 114
+  - 118
+  - 101
+  - 115
+  - 9
+  - 65
+  - 115
+  - 115
+  - 101
+  - 116
+  - 78
+  - 97
+  - 109
+  - 101
+  - 3
+  - 78
+  - 73
+  - 76
+  - 7
+  - 65
+  - 115
+  - 115
+  - 101
+  - 116
+  - 73
+  - 68
+  - 8
+  - 66
+  - 117
+  - 114
+  - 110
+  - 67
+  - 111
+  - 110
+  - 116
+  - 12
+  - 72
+  - 111
+  - 108
+  - 100
+  - 105
+  - 110
+  - 103
+  - 115
+  - 67
+  - 111
+  - 110
+  - 116
+  - 5
+  - 84
+  - 101
+  - 115
+  - 108
+  - 97
+  - 49
+  - 32
+  - 50
+  - 3
+  - 18
+  - 49
+  - 9
+  - 50
+  - 3
+  - 18
+  - 16
+  - 49
+  - 21
+  - 50
+  - 3
+  - 18
+  - 16
+  - 49
+  - 1
+  - 129
+  - 232
+  - 7
+  - 14
+  - 16
+  - 34
+  - 18
+  - 68
+  - 49
+  - 24
+  - 35
+  - 18
+  - 64
+  - 1
+  - 61
+  - 49
+  - 25
+  - 34
+  - 18
+  - 64
+  - 1
+  - 52
+  - 49
+  - 25
+  - 129
+  - 2
+  - 18
+  - 64
+  - 1
+  - 42
+  - 49
+  - 25
+  - 36
+  - 18
+  - 64
+  - 1
+  - 33
+  - 49
+  - 25
+  - 129
+  - 5
+  - 18
+  - 64
+  - 1
+  - 23
+  - 49
+  - 25
+  - 35
+  - 18
+  - 64
+  - 0
+  - 1
+  - 0
+  - 50
+  - 4
+  - 34
+  - 18
+  - 68
+  - 49
+  - 24
+  - 35
+  - 19
+  - 68
+  - 49
+  - 0
+  - 50
+  - 9
+  - 18
+  - 68
+  - 54
+  - 26
+  - 0
+  - 128
+  - 4
+  - 77
+  - 105
+  - 110
+  - 116
+  - 18
+  - 64
+  - 0
+  - 203
+  - 54
+  - 26
+  - 0
+  - 128
+  - 8
+  - 84
+  - 114
+  - 97
+  - 110
+  - 115
+  - 102
+  - 101
+  - 114
+  - 18
+  - 64
+  - 0
+  - 126
+  - 54
+  - 26
+  - 0
+  - 128
+  - 4
+  - 66
+  - 117
+  - 114
+  - 110
+  - 18
+  - 64
+  - 0
+  - 53
+  - 54
+  - 26
+  - 0
+  - 128
+  - 11
+  - 82
+  - 101
+  - 103
+  - 72
+  - 111
+  - 108
+  - 100
+  - 105
+  - 110
+  - 103
+  - 115
+  - 18
+  - 64
+  - 0
+  - 25
+  - 54
+  - 26
+  - 0
+  - 128
+  - 7
+  - 82
+  - 101
+  - 103
+  - 66
+  - 117
+  - 114
+  - 110
+  - 18
+  - 64
+  - 0
+  - 1
+  - 0
+  - 39
+  - 4
+  - 54
+  - 28
+  - 1
+  - 103
+  - 34
+  - 67
+  - 39
+  - 5
+  - 54
+  - 28
+  - 1
+  - 103
+  - 34
+  - 67
+  - 54
+  - 48
+  - 0
+  - 43
+  - 100
+  - 18
+  - 68
+  - 40
+  - 100
+  - 54
+  - 26
+  - 1
+  - 23
+  - 15
+  - 68
+  - 41
+  - 100
+  - 42
+  - 19
+  - 68
+  - 39
+  - 4
+  - 100
+  - 54
+  - 28
+  - 1
+  - 18
+  - 68
+  - 177
+  - 36
+  - 178
+  - 16
+  - 54
+  - 28
+  - 1
+  - 178
+  - 20
+  - 54
+  - 26
+  - 1
+  - 23
+  - 178
+  - 18
+  - 54
+  - 48
+  - 0
+  - 178
+  - 17
+  - 179
+  - 40
+  - 40
+  - 100
+  - 54
+  - 26
+  - 1
+  - 23
+  - 9
+  - 103
+  - 34
+  - 67
+  - 54
+  - 48
+  - 0
+  - 43
+  - 100
+  - 18
+  - 68
+  - 40
+  - 100
+  - 54
+  - 26
+  - 1
+  - 23
+  - 15
+  - 68
+  - 41
+  - 100
+  - 42
+  - 19
+  - 68
+  - 39
+  - 5
+  - 100
+  - 54
+  - 28
+  - 1
+  - 18
+  - 68
+  - 177
+  - 36
+  - 178
+  - 16
+  - 54
+  - 28
+  - 1
+  - 178
+  - 20
+  - 54
+  - 26
+  - 1
+  - 23
+  - 178
+  - 18
+  - 54
+  - 48
+  - 0
+  - 178
+  - 17
+  - 179
+  - 40
+  - 40
+  - 100
+  - 54
+  - 26
+  - 1
+  - 23
+  - 9
+  - 103
+  - 34
+  - 67
+  - 41
+  - 100
+  - 42
+  - 18
+  - 68
+  - 177
+  - 129
+  - 3
+  - 178
+  - 16
+  - 37
+  - 178
+  - 34
+  - 35
+  - 178
+  - 35
+  - 39
+  - 6
+  - 178
+  - 38
+  - 128
+  - 4
+  - 84
+  - 83
+  - 76
+  - 65
+  - 178
+  - 37
+  - 179
+  - 41
+  - 39
+  - 6
+  - 103
+  - 43
+  - 180
+  - 60
+  - 103
+  - 34
+  - 67
+  - 35
+  - 67
+  - 35
+  - 67
+  - 34
+  - 67
+  - 35
+  - 67
+  - 41
+  - 42
+  - 103
+  - 40
+  - 37
+  - 103
+  - 34
+  - 67
+tealCode: |
+  #pragma version 6
+  txn RekeyTo
+  global ZeroAddress
+  ==
+  txn CloseRemainderTo
+  global ZeroAddress
+  ==
+  &&
+  txn AssetCloseTo
+  global ZeroAddress
+  ==
+  &&
+  txn Fee
+  int 1000
+  <=
+  &&
+  int 1
+  ==
+  assert
+  txn ApplicationID
+  int 0
+  ==
+  bnz main_l22
+  txn OnCompletion
+  int OptIn
+  ==
+  bnz main_l21
+  txn OnCompletion
+  int CloseOut
+  ==
+  bnz main_l20
+  txn OnCompletion
+  int UpdateApplication
+  ==
+  bnz main_l19
+  txn OnCompletion
+  int DeleteApplication
+  ==
+  bnz main_l18
+  txn OnCompletion
+  int NoOp
+  ==
+  bnz main_l7
+  err
+  main_l7:
+  global GroupSize
+  int 1
+  ==
+  assert
+  txn ApplicationID
+  int 0
+  !=
+  assert
+  txn Sender
+  global CreatorAddress
+  ==
+  assert
+  txna ApplicationArgs 0
+  byte "Mint"
+  ==
+  bnz main_l17
+  txna ApplicationArgs 0
+  byte "Transfer"
+  ==
+  bnz main_l16
+  txna ApplicationArgs 0
+  byte "Burn"
+  ==
+  bnz main_l15
+  txna ApplicationArgs 0
+  byte "RegHoldings"
+  ==
+  bnz main_l14
+  txna ApplicationArgs 0
+  byte "RegBurn"
+  ==
+  bnz main_l13
+  err
+  main_l13:
+  byte "BurnCont"
+  txna Accounts 1
+  app_global_put
+  int 1
+  return
+  main_l14:
+  byte "HoldingsCont"
+  txna Accounts 1
+  app_global_put
+  int 1
+  return
+  main_l15:
+  txna Assets 0
+  byte "AssetID"
+  app_global_get
+  ==
+  assert
+  byte "Reserves"
+  app_global_get
+  txna ApplicationArgs 1
+  btoi
+  >=
+  assert
+  byte "AssetName"
+  app_global_get
+  byte "NIL"
+  !=
+  assert
+  byte "BurnCont"
+  app_global_get
+  txna Accounts 1
+  ==
+  assert
+  itxn_begin
+  int axfer
+  itxn_field TypeEnum
+  txna Accounts 1
+  itxn_field AssetReceiver
+  txna ApplicationArgs 1
+  btoi
+  itxn_field AssetAmount
+  txna Assets 0
+  itxn_field XferAsset
+  itxn_submit
+  byte "Reserves"
+  byte "Reserves"
+  app_global_get
+  txna ApplicationArgs 1
+  btoi
+  -
+  app_global_put
+  int 1
+  return
+  main_l16:
+  txna Assets 0
+  byte "AssetID"
+  app_global_get
+  ==
+  assert
+  byte "Reserves"
+  app_global_get
+  txna ApplicationArgs 1
+  btoi
+  >=
+  assert
+  byte "AssetName"
+  app_global_get
+  byte "NIL"
+  !=
+  assert
+  byte "HoldingsCont"
+  app_global_get
+  txna Accounts 1
+  ==
+  assert
+  itxn_begin
+  int axfer
+  itxn_field TypeEnum
+  txna Accounts 1
+  itxn_field AssetReceiver
+  txna ApplicationArgs 1
+  btoi
+  itxn_field AssetAmount
+  txna Assets 0
+  itxn_field XferAsset
+  itxn_submit
+  byte "Reserves"
+  byte "Reserves"
+  app_global_get
+  txna ApplicationArgs 1
+  btoi
+  -
+  app_global_put
+  int 1
+  return
+  main_l17:
+  byte "AssetName"
+  app_global_get
+  byte "NIL"
+  ==
+  assert
+  itxn_begin
+  int acfg
+  itxn_field TypeEnum
+  int 1000000
+  itxn_field ConfigAssetTotal
+  int 0
+  itxn_field ConfigAssetDecimals
+  byte "Tesla"
+  itxn_field ConfigAssetName
+  byte "TSLA"
+  itxn_field ConfigAssetUnitName
+  itxn_submit
+  byte "AssetName"
+  byte "Tesla"
+  app_global_put
+  byte "AssetID"
+  itxn CreatedAssetID
+  app_global_put
+  int 1
+  return
+  main_l18:
+  int 0
+  return
+  main_l19:
+  int 0
+  return
+  main_l20:
+  int 1
+  return
+  main_l21:
+  int 0
+  return
+  main_l22:
+  byte "AssetName"
+  byte "NIL"
+  app_global_put
+  byte "Reserves"
+  int 1000000
+  app_global_put
+  int 1
+  return
